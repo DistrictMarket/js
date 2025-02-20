@@ -1,5 +1,11 @@
 # @thirdweb-dev/service-utils
 
+## 0.8.9
+
+### Patch Changes
+
+- [#6293](https://github.com/thirdweb-dev/js/pull/6293) [`8610b46`](https://github.com/thirdweb-dev/js/commit/8610b467b6d13be9dc902db79d3270132dba6894) Thanks [@MananTank](https://github.com/MananTank)! - Update TeamResponse and ProjectResponse types
+
 ## 0.8.8
 
 ### Patch Changes
